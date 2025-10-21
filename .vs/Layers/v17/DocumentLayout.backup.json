@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Liushka\\00_LayersSystem\\Layers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Liushka\\00_LayersSystem\\Layers\\Rezultatai.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Rezultatai.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Liushka\\00_LayersSystem\\Layers\\Duomenys.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Duomenys.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D48374-B681-4C42-BF51-2CCC744D48F9}|Layers.csproj|g:\\liushka\\00_layerssystem\\layers\\controlers\\prekescontrolers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D48374-B681-4C42-BF51-2CCC744D48F9}|Layers.csproj|solutionrelative:controlers\\prekescontrolers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D48374-B681-4C42-BF51-2CCC744D48F9}|Layers.csproj|g:\\liushka\\00_layerssystem\\layers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D48374-B681-4C42-BF51-2CCC744D48F9}|Layers.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D48374-B681-4C42-BF51-2CCC744D48F9}|Layers.csproj|G:\\Liushka\\00_LayersSystem\\Layers\\models\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D48374-B681-4C42-BF51-2CCC744D48F9}|Layers.csproj|solutionrelative:models\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D48374-B681-4C42-BF51-2CCC744D48F9}|Layers.csproj|G:\\Liushka\\00_LayersSystem\\Layers\\services\\prekiuservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D48374-B681-4C42-BF51-2CCC744D48F9}|Layers.csproj|solutionrelative:services\\prekiuservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D48374-B681-4C42-BF51-2CCC744D48F9}|Layers.csproj|g:\\liushka\\00_layerssystem\\layers\\models\\prekes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D48374-B681-4C42-BF51-2CCC744D48F9}|Layers.csproj|solutionrelative:models\\prekes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D48374-B681-4C42-BF51-2CCC744D48F9}|Layers.csproj|G:\\Liushka\\00_LayersSystem\\Layers\\models\\preke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D48374-B681-4C42-BF51-2CCC744D48F9}|Layers.csproj|solutionrelative:models\\preke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D48374-B681-4C42-BF51-2CCC744D48F9}|Layers.csproj|g:\\liushka\\00_layerssystem\\layers\\repository\\prekesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D48374-B681-4C42-BF51-2CCC744D48F9}|Layers.csproj|solutionrelative:repository\\prekesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Liushka\\00_LayersSystem\\Layers\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "G:\\Liushka\\00_LayersSystem\\Layers\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwB0AAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:54:24.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Preke.cs",
+              "DocumentMoniker": "G:\\Liushka\\00_LayersSystem\\Layers\\Models\\Preke.cs",
+              "RelativeDocumentMoniker": "Models\\Preke.cs",
+              "ToolTip": "G:\\Liushka\\00_LayersSystem\\Layers\\Models\\Preke.cs",
+              "RelativeToolTip": "Models\\Preke.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:59:08.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Prekes.cs",
+              "DocumentMoniker": "G:\\Liushka\\00_LayersSystem\\Layers\\Models\\Prekes.cs",
+              "RelativeDocumentMoniker": "Models\\Prekes.cs",
+              "ToolTip": "G:\\Liushka\\00_LayersSystem\\Layers\\Models\\Prekes.cs",
+              "RelativeToolTip": "Models\\Prekes.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T07:01:47.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "G:\\Liushka\\00_LayersSystem\\Layers\\Models\\Constants.cs",
+              "RelativeDocumentMoniker": "Models\\Constants.cs",
+              "ToolTip": "G:\\Liushka\\00_LayersSystem\\Layers\\Models\\Constants.cs",
+              "RelativeToolTip": "Models\\Constants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:03:46.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PrekesRepository.cs",
+              "DocumentMoniker": "G:\\Liushka\\00_LayersSystem\\Layers\\Repository\\PrekesRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\PrekesRepository.cs",
+              "ToolTip": "G:\\Liushka\\00_LayersSystem\\Layers\\Repository\\PrekesRepository.cs",
+              "RelativeToolTip": "Repository\\PrekesRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:01:23.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PrekiuServices.cs",
+              "DocumentMoniker": "G:\\Liushka\\00_LayersSystem\\Layers\\Services\\PrekiuServices.cs",
+              "RelativeDocumentMoniker": "Services\\PrekiuServices.cs",
+              "ToolTip": "G:\\Liushka\\00_LayersSystem\\Layers\\Services\\PrekiuServices.cs",
+              "RelativeToolTip": "Services\\PrekiuServices.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAvwA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:30:48.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrekesControlers.cs",
+              "DocumentMoniker": "G:\\Liushka\\00_LayersSystem\\Layers\\Controlers\\PrekesControlers.cs",
+              "RelativeDocumentMoniker": "Controlers\\PrekesControlers.cs",
+              "ToolTip": "G:\\Liushka\\00_LayersSystem\\Layers\\Controlers\\PrekesControlers.cs",
+              "RelativeToolTip": "Controlers\\PrekesControlers.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:11:00.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Duomenys.txt",
+              "DocumentMoniker": "G:\\Liushka\\00_LayersSystem\\Layers\\Duomenys.txt",
+              "RelativeDocumentMoniker": "Duomenys.txt",
+              "ToolTip": "G:\\Liushka\\00_LayersSystem\\Layers\\Duomenys.txt*",
+              "RelativeToolTip": "Duomenys.txt*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-08T10:16:13.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rezultatai.txt",
+              "DocumentMoniker": "G:\\Liushka\\00_LayersSystem\\Layers\\Rezultatai.txt",
+              "RelativeDocumentMoniker": "Rezultatai.txt",
+              "ToolTip": "G:\\Liushka\\00_LayersSystem\\Layers\\Rezultatai.txt",
+              "RelativeToolTip": "Rezultatai.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-08T10:29:56.473Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

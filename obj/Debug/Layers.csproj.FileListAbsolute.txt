@@ -1,0 +1,14 @@
+G:\Liushka\10_LayersSystem\Layers\bin\Debug\Layers.exe.config
+G:\Liushka\10_LayersSystem\Layers\bin\Debug\Layers.exe
+G:\Liushka\10_LayersSystem\Layers\bin\Debug\Layers.pdb
+G:\Liushka\10_LayersSystem\Layers\obj\Debug\Layers.csproj.AssemblyReference.cache
+G:\Liushka\10_LayersSystem\Layers\obj\Debug\Layers.csproj.CoreCompileInputs.cache
+G:\Liushka\10_LayersSystem\Layers\obj\Debug\Layers.exe
+G:\Liushka\10_LayersSystem\Layers\obj\Debug\Layers.pdb
+G:\Liushka\00_LayersSystem\Layers\obj\Debug\Layers.csproj.AssemblyReference.cache
+G:\Liushka\00_LayersSystem\Layers\obj\Debug\Layers.csproj.CoreCompileInputs.cache
+G:\Liushka\00_LayersSystem\Layers\obj\Debug\Layers.exe
+G:\Liushka\00_LayersSystem\Layers\obj\Debug\Layers.pdb
+G:\Liushka\00_LayersSystem\Layers\bin\Debug\Layers.exe.config
+G:\Liushka\00_LayersSystem\Layers\bin\Debug\Layers.exe
+G:\Liushka\00_LayersSystem\Layers\bin\Debug\Layers.pdb

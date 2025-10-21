@@ -1,0 +1,17 @@
+
+Pradiniai duomenys Layers: 
+Geri dalykai antras bandymas
+-----------------------------------------------------------------
+|                   Pavadinimas            |  Kaina   |  Kiekis |
+-----------------------------------------------------------------
+| Smartphone X12222                        |   499,99 |    25   |
+| LED Televizorius 55”                     |   799,00 |     8   |
+| Bluetooth ausinės ProSound               |    59,99 |    25   |
+| Nešiojamas kompiuteris Dell Inspiron     |   749,00 |    22   |
+| Elektrinis virdulys Swift                |    59,99 |    50   |
+| Virtuvės robotas KitchenMaster 3000      |   199,99 |    18   |
+| Bėgimo takelis FitPro                    |   399,00 |     7   |
+| Fotokamera Canon EOS 2000D               |   499,99 |    10   |
+| Paspirtukas ScoooootMax                  |   199,99 |    30   |
+-----------------------------------------------------------------
+Prekiu su nurodyta kaina kiekis: 2
