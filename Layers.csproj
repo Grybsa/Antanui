@@ -43,14 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Controlers\PrekesControlers.cs" />
+    <Compile Include="Controlers\PrekeControler.cs" />
     <Compile Include="Models\Constants.cs" />
     <Compile Include="Models\Preke.cs" />
-    <Compile Include="Models\Prekes.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Repository\PrekesRepository.cs" />
-    <Compile Include="Services\PrekiuServices.cs" />
+    <Compile Include="Repository\PrekeRepository.cs" />
+    <Compile Include="Services\PrekeService.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

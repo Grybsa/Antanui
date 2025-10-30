@@ -1,6 +1,5 @@
 
-Pradiniai duomenys Layers: 
-Geri dalykai antras bandymas
+Pradiniai duomenys: 
 -----------------------------------------------------------------
 |                   Pavadinimas            |  Kaina   |  Kiekis |
 -----------------------------------------------------------------
@@ -12,6 +11,6 @@ Geri dalykai antras bandymas
 | Virtuvės robotas KitchenMaster 3000      |   199,99 |    18   |
 | Bėgimo takelis FitPro                    |   399,00 |     7   |
 | Fotokamera Canon EOS 2000D               |   499,99 |    10   |
-| Paspirtukas ScoooootMax                  |   199,99 |    30   |
+| Paspirtukas ScoooootMax                  |   499,99 |    30   |
 -----------------------------------------------------------------
-Prekiu su nurodyta kaina kiekis: 2
+Prekiu su nurodyta kaina kiekis: 0

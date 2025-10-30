@@ -18,7 +18,7 @@ namespace Layers
            // PrekiuServices prekiuServices = new PrekiuServices();
             Constants constants = new Constants();
 
-            PrekesControlers prekesControler = new PrekesControlers();
+            PrekeControler prekesControler = new PrekeControler();
 
             string duomenuFailas = constants.imtiDuomenuFailoPavadinima();
             string rezultatuFailas = constants.imtiRezultatuFailoPavadinima();
@@ -27,8 +27,7 @@ namespace Layers
 
             prekesControler.IsvalytiFaila();
             
-            prekesControler.SpausdintiDuomenis(rezultatuFailas, "Pradiniai duomenys Layers: ");
-
+            prekesControler.SpausdintiDuomenis(rezultatuFailas, "Pradiniai duomenys: ");
 
             prekesControler.SuskaiciuotoPrekiuKiekioIsvedimas(rezultatuFailas);
 

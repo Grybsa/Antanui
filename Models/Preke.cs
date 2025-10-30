@@ -20,7 +20,6 @@ namespace Layers.Models
         }
         public string ImtiPavadinima() { return pavadinimas; }
         public double ImtiKaina() { return kaina; }
-        public int ImtiKieki() { return kiekis; }
-
+        public int    ImtiKieki() { return kiekis; }
     }
 }
