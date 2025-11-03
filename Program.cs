@@ -23,13 +23,14 @@ namespace Layers
             string duomenuFailas = constants.imtiDuomenuFailoPavadinima();
             string rezultatuFailas = constants.imtiRezultatuFailoPavadinima();
 
-            prekesControler.SkaitytiDuomenis(duomenuFailas);
+            prekesControler.SkaitytiDraudziamasPrekes("..\\..\\DraudziamosPrekes.txt");
+            prekesControler.SkaitytiDuomenis(duomenuFailas);        
 
             prekesControler.IsvalytiFaila();
             
             prekesControler.SpausdintiDuomenis(rezultatuFailas, "Pradiniai duomenys: ");
 
-            prekesControler.SuskaiciuotoPrekiuKiekioIsvedimas(rezultatuFailas);
+            prekesControler.IsvestiSuskaiciuotaPrekiuKieki(rezultatuFailas);
 
         }
     }

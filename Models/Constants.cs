@@ -10,7 +10,7 @@ namespace Layers.Models
     {
         const string CDuomenuFailoPavadinimas = "..\\..\\Duomenys.txt";
         const string CRezultatuFailoPavadinimas = "..\\..\\Rezultatai.txt";
-        // public const int CmaxPrekiuKiekis = 100;
+        
         public string imtiDuomenuFailoPavadinima() 
         {
             return CDuomenuFailoPavadinimas;

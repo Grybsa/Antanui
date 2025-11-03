@@ -30,7 +30,19 @@ namespace Layers.Controlers
                     string prekesPavadinimas = eiluesDalys[0].Trim();
                     double prekesKaina = double.Parse(eiluesDalys[1]);
                     int prekiuKiekisParduotuveje = int.Parse(eiluesDalys[2]);
-                    prekiuServices.addPreke(prekesPavadinimas, prekesKaina, prekiuKiekisParduotuveje);
+                    if (prekiuServices.addPreke(prekesPavadinimas, prekesKaina, prekiuKiekisParduotuveje))
+                        IsvestiDraudziamosPrekesPranesima(prekesPavadinimas);
+                }
+            }
+        }
+        public void SkaitytiDraudziamasPrekes(string duomenuFailas)
+        {
+            using (StreamReader skaitymas = new StreamReader(duomenuFailas))
+            {
+                string prekesPavadinimas;
+                while ((prekesPavadinimas = skaitymas.ReadLine()) != null)
+                {
+                    prekiuServices.addDraudziamaPreke(prekesPavadinimas);
                 }
             }
         }
@@ -54,19 +66,23 @@ namespace Layers.Controlers
                 rasymas.WriteLine("-----------------------------------------------------------------");
             }
         }
-        public double PrekiuKainosSkaiciavimamsIvedimas()
+        public double IvestiPrekiuKainaSkaiciavimams()
         {
             Console.Write("Įveskite prekių kainą: ");
             return double.Parse(Console.ReadLine());
         }
-        public void SuskaiciuotoPrekiuKiekioIsvedimas(string rezultatuFailas)
+        public void IsvestiSuskaiciuotaPrekiuKieki(string rezultatuFailas)
         {
 
             using (StreamWriter papildymas = File.AppendText(rezultatuFailas))
             {
                 papildymas.Write("Prekiu su nurodyta kaina kiekis: ");
-                papildymas.WriteLine(prekiuServices.NurodytosKainosPrekiuKiekis(PrekiuKainosSkaiciavimamsIvedimas()));
+                papildymas.WriteLine(prekiuServices.NurodytosKainosPrekiuKiekis(IvestiPrekiuKainaSkaiciavimams()));
             }
+        }
+        public void IsvestiDraudziamosPrekesPranesima(string prekesPavadinimas)
+        {
+            Console.WriteLine("Draudziama preke {0}", prekesPavadinimas);
         }
         public void IsvalytiFaila()
         {
